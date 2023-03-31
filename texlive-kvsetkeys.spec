@@ -1,6 +1,6 @@
 Name:		texlive-kvsetkeys
 Version:	64632
-Release:	1
+Release:	2
 Summary:	Key value parser with default handler support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvsetkeys
