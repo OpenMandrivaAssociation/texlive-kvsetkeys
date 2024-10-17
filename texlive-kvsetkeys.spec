@@ -3,7 +3,7 @@ Version:	64632
 Release:	2
 Summary:	Key value parser with default handler support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kvsetkeys
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kvsetkeys
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvsetkeys.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kvsetkeys.doc.r%{version}.tar.xz
